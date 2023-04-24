@@ -1,0 +1,16 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+cat11.jpg,1440,560,cat,17,30,1048,544
+cat20.png,275,183,cat,87,40,249,147
+cat3.png,317,159,cat,93,4,220,159
+cat36.png,275,183,cat,17,8,133,182
+cat40.jpg,900,586,cat,459,58,816,579
+chair1.jpg,425,425,chair,79,20,361,407
+chair15.jpg,225,225,chair,66,16,160,211
+chair22.png,1200,628,chair,360,5,781,628
+chair31.png,360,462,chair,29,25,335,443
+chair39.png,338,280,chair,107,19,251,243
+laptop13.jpg,1000,715,laptop,43,12,1000,691
+laptop19.png,673,497,laptop,94,52,599,439
+laptop20.jpg,875,557,laptop,216,18,781,534
+laptop32.png,269,270,laptop,2,38,268,220
+laptop8.jpg,2000,1000,laptop,434,149,1365,788

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chair</folder>
+	<filename>chair29.png</filename>
+	<path>C:\Users\talha\OneDrive\images\chair\chair29.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2398</width>
+		<height>1349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>869</xmin>
+			<ymin>122</ymin>
+			<xmax>1559</xmax>
+			<ymax>1217</ymax>
+		</bndbox>
+	</object>
+</annotation>

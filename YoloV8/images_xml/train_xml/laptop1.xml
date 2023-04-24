@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>laptop1.jpg</filename>
+	<path>C:\Users\talha\OneDrive\images\laptop1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>387</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>25</ymin>
+			<xmax>575</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

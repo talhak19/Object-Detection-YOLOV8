@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cat</folder>
+	<filename>cat6.jpg</filename>
+	<path>C:\Users\talha\OneDrive\images\cat\cat6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1771</width>
+		<height>2657</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>651</ymin>
+			<xmax>1695</xmax>
+			<ymax>2480</ymax>
+		</bndbox>
+	</object>
+</annotation>
